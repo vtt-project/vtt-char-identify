@@ -1,4 +1,4 @@
-# VTT SWRC 2018
+# VTT Char Identify
 ## 개요
 카이스트 [시맨틱웹첨단연구센터(SWRC)](http://semanticweb.kaist.ac.kr)의 VTT 프로젝트 2차년도(2018년) 연구 결과 통합 모듈 저장소 입니다. 대본에서 트리플(Triple) 형태로 표현되는 지식을 추출하는 모듈입니다. 크게 1. 자연어 전처리 모듈(input-parser), 2. 인물 개체 식별(character-identifier), 3. 표층형(Surface Form) 관계 추출, 이렇게 3가지로 구성되어 있습니다. 
 
