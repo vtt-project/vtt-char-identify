@@ -1,0 +1,2140 @@
+{
+    "triples": [
+        {
+            "source": "[Rachel Green] : It's so that I can spend Thanksgiving with my family.",
+            "sbj": "Rachel Green",
+            "relation": "can spend Thanksgiving with",
+            "obj": "my family"
+        },
+        {
+            "source": "[Rachel Green] : It's so that I can spend Thanksgiving with my family.",
+            "sbj": "Rachel Green",
+            "relation": "can spend",
+            "obj": "Thanksgiving"
+        },
+        {
+            "source": "[Rachel Green] : See, every year we go skiing in Vail, and normally my father pays for my ticket, but I sort of started the whole independence thing, you know, which is actually why I took this job.",
+            "sbj": "skiing",
+            "relation": "is in",
+            "obj": "Vail"
+        },
+        {
+            "source": "[Terry] : You're a terrible, terrible waitress.",
+            "sbj": "Rachel Green",
+            "relation": "'re",
+            "obj": "terrible terrible waitress"
+        },
+        {
+            "source": "[Terry] : You're a terrible, terrible waitress.",
+            "sbj": "Rachel Green",
+            "relation": "'re",
+            "obj": "terrible"
+        },
+        {
+            "source": "[Terry] : You're a terrible, terrible waitress.",
+            "sbj": "Rachel Green",
+            "relation": "'re",
+            "obj": "terrible"
+        },
+        {
+            "source": "[Terry] : You're a terrible, terrible waitress.",
+            "sbj": "Rachel Green",
+            "relation": "'re",
+            "obj": "waitress"
+        },
+        {
+            "source": "[Terry] : You're a terrible, terrible waitress.",
+            "sbj": "Rachel Green",
+            "relation": "'re",
+            "obj": "terrible waitress"
+        },
+        {
+            "source": "[Terry] : You're a terrible, terrible waitress.",
+            "sbj": "Rachel Green",
+            "relation": "'re",
+            "obj": "terrible waitress"
+        },
+        {
+            "source": "[Rachel Green] : I'm with you.",
+            "sbj": "Rachel Green",
+            "relation": "'m with",
+            "obj": "Ross Geller"
+        },
+        {
+            "source": "[Rachel Green] : Does anybody need coffee?",
+            "sbj": "anybody",
+            "relation": "Does need",
+            "obj": "coffee"
+        },
+        {
+            "source": "[Rachel Green] : Hi, you come in here all time.",
+            "sbj": "Ross Geller",
+            "relation": "come at_time",
+            "obj": "time"
+        },
+        {
+            "source": "[Rachel Green] : Hey, I'm sorry about that spill before.",
+            "sbj": "Rachel Green",
+            "relation": "'m",
+            "obj": "sorry before"
+        },
+        {
+            "source": "[Rachel Green] : Hey, I'm sorry about that spill before.",
+            "sbj": "Rachel Green",
+            "relation": "'m sorry about",
+            "obj": "spill"
+        },
+        {
+            "source": "[Rachel Green] : Hey, I'm sorry about that spill before.",
+            "sbj": "Rachel Green",
+            "relation": "'m sorry before about",
+            "obj": "spill"
+        },
+        {
+            "source": "[Rachel Green] : Hey, I'm sorry about that spill before.",
+            "sbj": "Rachel Green",
+            "relation": "'m",
+            "obj": "sorry"
+        },
+        {
+            "source": "[Monica Geller] : Ross, did you know Mom and Dad are going to Puerto Rico for Thanksgiving?",
+            "sbj": "Ross Geller",
+            "relation": "going for",
+            "obj": "Thanksgiving"
+        },
+        {
+            "source": "[Monica Geller] : Ross, did you know Mom and Dad are going to Puerto Rico for Thanksgiving?",
+            "sbj": "Ross Geller",
+            "relation": "going to",
+            "obj": "Puerto Rico"
+        },
+        {
+            "source": "[Monica Geller] : Ross, did you know Mom and Dad are going to Puerto Rico for Thanksgiving?",
+            "sbj": "Ross Geller",
+            "relation": "going for",
+            "obj": "Thanksgiving"
+        },
+        {
+            "source": "[Monica Geller] : Ross, did you know Mom and Dad are going to Puerto Rico for Thanksgiving?",
+            "sbj": "Ross Geller",
+            "relation": "going to",
+            "obj": "Puerto Rico"
+        },
+        {
+            "source": "[Monica Geller] : The Blymens invited them.",
+            "sbj": "Blymens",
+            "relation": "invited",
+            "obj": "them"
+        },
+        {
+            "source": "[Ross Geller] : You're wrong.",
+            "sbj": "Rachel Green",
+            "relation": "'re",
+            "obj": "wrong"
+        },
+        {
+            "source": "[Ross Geller] : You're wrong.",
+            "sbj": "Rachel Green",
+            "relation": "'re",
+            "obj": "wrong"
+        },
+        {
+            "source": "[Monica Geller] : No, I just talked to them.",
+            "sbj": "Monica Geller",
+            "relation": "talked to",
+            "obj": "them"
+        },
+        {
+            "source": "[Monica Geller] : No, I just talked to them.",
+            "sbj": "Monica Geller",
+            "relation": "just talked to",
+            "obj": "them"
+        },
+        {
+            "source": "[Ross Geller] : I'm calling Mom.",
+            "sbj": "Ross Geller",
+            "relation": "'m calling",
+            "obj": "Judy Geller"
+        },
+        {
+            "source": "[Chandler Bing] : Are you wearing makeup?",
+            "sbj": "Joey Tribbiani",
+            "relation": "Are wearing",
+            "obj": "makeup"
+        },
+        {
+            "source": "[Joey Tribbiani] : As of today, I am officially Joey Tribbiani, actor slash model.",
+            "sbj": "Joey Tribbiani",
+            "relation": "am",
+            "obj": "Joey Tribbiani"
+        },
+        {
+            "source": "[Joey Tribbiani] : As of today, I am officially Joey Tribbiani, actor slash model.",
+            "sbj": "today",
+            "relation": "As of Tribbiani is",
+            "obj": "actor slash model"
+        },
+        {
+            "source": "[Joey Tribbiani] : As of today, I am officially Joey Tribbiani, actor slash model.",
+            "sbj": "Joey Tribbiani",
+            "relation": "am",
+            "obj": "officially Joey Tribbiani"
+        },
+        {
+            "source": "[Chandler Bing] : That's so funny, 'cause I was thinking you look more like Joey Tribbiani, man slash woman.",
+            "sbj": "Joey Tribbiani",
+            "relation": "slash",
+            "obj": "Joey Tribbiani"
+        },
+        {
+            "source": "[Joey Tribbiani] : You know those posters for the city free clinic?",
+            "sbj": "Monica Geller",
+            "relation": "know",
+            "obj": "posters for city free clinic"
+        },
+        {
+            "source": "[Joey Tribbiani] : You know those posters for the city free clinic?",
+            "sbj": "Monica Geller",
+            "relation": "know",
+            "obj": "posters for city clinic"
+        },
+        {
+            "source": "[Joey Tribbiani] : You know those posters for the city free clinic?",
+            "sbj": "Monica Geller",
+            "relation": "know",
+            "obj": "posters"
+        },
+        {
+            "source": "[Phoebe Buffay] : You know, the asthma guy was really cute.",
+            "sbj": "asthma guy",
+            "relation": "was",
+            "obj": "really cute"
+        },
+        {
+            "source": "[Phoebe Buffay] : You know, the asthma guy was really cute.",
+            "sbj": "asthma guy",
+            "relation": "was",
+            "obj": "cute"
+        },
+        {
+            "source": "[Joey Tribbiani] : No, but I hear lyme disease is open, so...",
+            "sbj": "lyme disease",
+            "relation": "is",
+            "obj": "open"
+        },
+        {
+            "source": "[Joey Tribbiani] : No, but I hear lyme disease is open, so...",
+            "sbj": "disease",
+            "relation": "is",
+            "obj": "open"
+        },
+        {
+            "source": "[Chandler Bing] : I hope you get it.",
+            "sbj": "Joey Tribbiani",
+            "relation": "get",
+            "obj": "it"
+        },
+        {
+            "source": "[Ross Geller] : Well, you were right.",
+            "sbj": "Chandler Bing",
+            "relation": "were",
+            "obj": "right"
+        },
+        {
+            "source": "[Ross Geller] : How can they do this to us, huh?",
+            "sbj": "they",
+            "relation": "can do huh to",
+            "obj": "us"
+        },
+        {
+            "source": "[Ross Geller] : How can they do this to us, huh?",
+            "sbj": "they",
+            "relation": "can do to",
+            "obj": "us"
+        },
+        {
+            "source": "[Ross Geller] : It's Thanksgiving.",
+            "sbj": "It",
+            "relation": "has",
+            "obj": "Thanksgiving"
+        },
+        {
+            "source": "[Monica Geller] : Ok, I'll tell you what.",
+            "sbj": "Monica Geller",
+            "relation": "'ll tell",
+            "obj": "Chandler Bing"
+        },
+        {
+            "source": "[Monica Geller] : How about I cook dinner at my place?",
+            "sbj": "Monica Geller",
+            "relation": "How about cook dinner at",
+            "obj": "my place"
+        },
+        {
+            "source": "[Monica Geller] : How about I cook dinner at my place?",
+            "sbj": "Monica Geller",
+            "relation": "cook dinner at",
+            "obj": "my place"
+        },
+        {
+            "source": "[Monica Geller] : How about I cook dinner at my place?",
+            "sbj": "Monica Geller",
+            "relation": "How about cook",
+            "obj": "dinner"
+        },
+        {
+            "source": "[Monica Geller] : How about I cook dinner at my place?",
+            "sbj": "Monica Geller",
+            "relation": "about cook",
+            "obj": "dinner"
+        },
+        {
+            "source": "[Monica Geller] : How about I cook dinner at my place?",
+            "sbj": "Monica Geller",
+            "relation": "about cook dinner at",
+            "obj": "my place"
+        },
+        {
+            "source": "[Monica Geller] : How about I cook dinner at my place?",
+            "sbj": "Monica Geller",
+            "relation": "cook",
+            "obj": "dinner"
+        },
+        {
+            "source": "[Monica Geller] : I'll make it just like Mom's.",
+            "sbj": "Monica Geller",
+            "relation": "'ll make",
+            "obj": "it like Mom 's"
+        },
+        {
+            "source": "[Monica Geller] : I'll make it just like Mom's.",
+            "sbj": "Monica Geller",
+            "relation": "'ll make",
+            "obj": "it just like Mom 's"
+        },
+        {
+            "source": "[Monica Geller] : I'll make it just like Mom's.",
+            "sbj": "Monica Geller",
+            "relation": "'ll make",
+            "obj": "it"
+        },
+        {
+            "source": "[Ross Geller] : Will you make the mashed potatoes with the lumps?",
+            "sbj": "Monica Geller",
+            "relation": "Will make",
+            "obj": "potatoes"
+        },
+        {
+            "source": "[Ross Geller] : Will you make the mashed potatoes with the lumps?",
+            "sbj": "Monica Geller",
+            "relation": "Will make",
+            "obj": "mashed potatoes"
+        },
+        {
+            "source": "[Ross Geller] : Will you make the mashed potatoes with the lumps?",
+            "sbj": "Monica Geller",
+            "relation": "Will make potatoes with",
+            "obj": "lumps"
+        },
+        {
+            "source": "[Monica Geller] : You know, they're not actually supposed to have... I'll work on the lumps.",
+            "sbj": "Monica Geller",
+            "relation": "'ll work on",
+            "obj": "lumps"
+        },
+        {
+            "source": "[Monica Geller] : Joey, you're going home, right?",
+            "sbj": "Joey Tribbiani",
+            "relation": "Joey 're going",
+            "obj": "home"
+        },
+        {
+            "source": "[Monica Geller] : Joey, you're going home, right?",
+            "sbj": "Joey Tribbiani",
+            "relation": "Joey 're going",
+            "obj": "right"
+        },
+        {
+            "source": "[Monica Geller] : Joey, you're going home, right?",
+            "sbj": "Joey Tribbiani",
+            "relation": "'re going",
+            "obj": "right"
+        },
+        {
+            "source": "[Monica Geller] : Joey, you're going home, right?",
+            "sbj": "Joey Tribbiani",
+            "relation": "'re going",
+            "obj": "home"
+        },
+        {
+            "source": "[Monica Geller] : And I assume, Chandler, you are still boycotting all the pilgrim holidays.",
+            "sbj": "Chandler Bing",
+            "relation": "boycotting",
+            "obj": "pilgrim holidays"
+        },
+        {
+            "source": "[Monica Geller] : And I assume, Chandler, you are still boycotting all the pilgrim holidays.",
+            "sbj": "Chandler Bing",
+            "relation": "still boycotting",
+            "obj": "pilgrim holidays"
+        },
+        {
+            "source": "[Monica Geller] : And I assume, Chandler, you are still boycotting all the pilgrim holidays.",
+            "sbj": "Chandler Bing",
+            "relation": "Chandler still boycotting",
+            "obj": "pilgrim holidays"
+        },
+        {
+            "source": "[Monica Geller] : And I assume, Chandler, you are still boycotting all the pilgrim holidays.",
+            "sbj": "Chandler Bing",
+            "relation": "Chandler boycotting",
+            "obj": "pilgrim holidays"
+        },
+        {
+            "source": "[Monica Geller] : Phoebe, you're gonna be with your grandma?",
+            "sbj": "Phoebe Buffay",
+            "relation": "be with",
+            "obj": "your grandma"
+        },
+        {
+            "source": "[Monica Geller] : Phoebe, you're gonna be with your grandma?",
+            "sbj": "Phoebe",
+            "relation": "'re gon",
+            "obj": "your grandma"
+        },
+        {
+            "source": "[Monica Geller] : Phoebe, you're gonna be with your grandma?",
+            "sbj": "Phoebe Buffay",
+            "relation": "'re gon",
+            "obj": "your grandma"
+        },
+        {
+            "source": "[Phoebe Buffay] : But we're celebrating Thanksgiving in December 'cause he is lunar.",
+            "sbj": "we",
+            "relation": "'re celebrating",
+            "obj": "Thanksgiving"
+        },
+        {
+            "source": "[Phoebe Buffay] : But we're celebrating Thanksgiving in December 'cause he is lunar.",
+            "sbj": "Phoebe's grandmother's boyfriend",
+            "relation": "is lunar in",
+            "obj": "December 'cause"
+        },
+        {
+            "source": "[Phoebe Buffay] : But we're celebrating Thanksgiving in December 'cause he is lunar.",
+            "sbj": "Phoebe's grandmother's boyfriend",
+            "relation": "is",
+            "obj": "lunar"
+        },
+        {
+            "source": "[Monica Geller] : So you're free Thursday, then.",
+            "sbj": "Phoebe Buffay",
+            "relation": "'re free at_time",
+            "obj": "Thursday"
+        },
+        {
+            "source": "[Monica Geller] : So you're free Thursday, then.",
+            "sbj": "Phoebe Buffay",
+            "relation": "'re",
+            "obj": "free"
+        },
+        {
+            "source": "[Monica Geller] : So you're free Thursday, then.",
+            "sbj": "Phoebe Buffay",
+            "relation": "'re",
+            "obj": "So free"
+        },
+        {
+            "source": "[Monica Geller] : So you're free Thursday, then.",
+            "sbj": "Phoebe Buffay",
+            "relation": "So 're free at_time",
+            "obj": "Thursday"
+        },
+        {
+            "source": "[Rachel Green] : I, I broke a cup.",
+            "sbj": "Rachel Green",
+            "relation": "broke",
+            "obj": "cup"
+        },
+        {
+            "source": "[Rachel Green] : I, I broke a cup.",
+            "sbj": "Rachel Green",
+            "relation": "broke",
+            "obj": "cup"
+        },
+        {
+            "source": "[Ross Geller] : Because she's my ex-wife, and will probably want to bring her, ooh, ooh, lesbian life partner.",
+            "sbj": "Carol Willick",
+            "relation": "has",
+            "obj": "my ex-wife"
+        },
+        {
+            "source": "[Ross Geller] : Hi, is uh, is Carol here?",
+            "sbj": "Hi",
+            "relation": "is",
+            "obj": "Carol"
+        },
+        {
+            "source": "[Ross Geller] : Hi, is uh, is Carol here?",
+            "sbj": "Hi",
+            "relation": "is",
+            "obj": "Carol here"
+        },
+        {
+            "source": "[Susan Bunch] : No, she's at a faculty meeting.",
+            "sbj": "Carol Willick",
+            "relation": "'s at",
+            "obj": "faculty meeting"
+        },
+        {
+            "source": "[Ross Geller] : Oh, I uh, just came by to pick up my skull.",
+            "sbj": "Oh",
+            "relation": "pick up",
+            "obj": "my skull"
+        },
+        {
+            "source": "[Ross Geller] : Yeah, Carol borrowed it for a class, and I have to get it back to the museum.",
+            "sbj": "Carol",
+            "relation": "borrowed",
+            "obj": "it"
+        },
+        {
+            "source": "[Ross Geller] : Yeah, Carol borrowed it for a class, and I have to get it back to the museum.",
+            "sbj": "Ross Geller",
+            "relation": "get back",
+            "obj": "it"
+        },
+        {
+            "source": "[Ross Geller] : Yeah, Carol borrowed it for a class, and I have to get it back to the museum.",
+            "sbj": "Ross Geller",
+            "relation": "get",
+            "obj": "it"
+        },
+        {
+            "source": "[Susan Bunch] : Yes, I'm familiar with the concept.",
+            "sbj": "Susan Bunch",
+            "relation": "'m familiar with",
+            "obj": "concept"
+        },
+        {
+            "source": "[Susan Bunch] : Yes, I'm familiar with the concept.",
+            "sbj": "Susan Bunch",
+            "relation": "'m",
+            "obj": "familiar"
+        },
+        {
+            "source": "[Susan Bunch] : We can just look for it.",
+            "sbj": "We",
+            "relation": "can look for",
+            "obj": "it"
+        },
+        {
+            "source": "[Susan Bunch] : We can just look for it.",
+            "sbj": "We",
+            "relation": "can just look for",
+            "obj": "it"
+        },
+        {
+            "source": "[Susan Bunch] : Well, you know, you have to take a course.",
+            "sbj": "Ross Geller",
+            "relation": "take",
+            "obj": "course"
+        },
+        {
+            "source": "[Susan Bunch] : Actually, I'm reading it to the baby.",
+            "sbj": "Susan Bunch",
+            "relation": "'m reading",
+            "obj": "it"
+        },
+        {
+            "source": "[Susan Bunch] : Actually, I'm reading it to the baby.",
+            "sbj": "Susan Bunch",
+            "relation": "Actually 'm reading",
+            "obj": "it"
+        },
+        {
+            "source": "[Susan Bunch] : I want the baby to know my voice.",
+            "sbj": "Ben",
+            "relation": "know",
+            "obj": "my voice"
+        },
+        {
+            "source": "[Susan Bunch] : I want the baby to know my voice.",
+            "sbj": "Susan Bunch",
+            "relation": "want",
+            "obj": "Ben"
+        },
+        {
+            "source": "[Susan Bunch] : I want the baby to know my voice.",
+            "sbj": "Susan Bunch",
+            "relation": "want",
+            "obj": "know"
+        },
+        {
+            "source": "[Ross Geller] : Do you uh, do you talk about me?",
+            "sbj": "Rachel Green",
+            "relation": "do talk about",
+            "obj": "Ross Geller"
+        },
+        {
+            "source": "[Susan Bunch] : But um, we just refer to you as Bobo the Sperm Guy.",
+            "sbj": "we",
+            "relation": "refer to",
+            "obj": "Ross Geller"
+        },
+        {
+            "source": "[Susan Bunch] : But um, we just refer to you as Bobo the Sperm Guy.",
+            "sbj": "we",
+            "relation": "um refer to",
+            "obj": "Ross Geller"
+        },
+        {
+            "source": "[Susan Bunch] : But um, we just refer to you as Bobo the Sperm Guy.",
+            "sbj": "we",
+            "relation": "um just refer as",
+            "obj": "Bobo Sperm Guy"
+        },
+        {
+            "source": "[Susan Bunch] : But um, we just refer to you as Bobo the Sperm Guy.",
+            "sbj": "we",
+            "relation": "um refer as",
+            "obj": "Bobo Sperm Guy"
+        },
+        {
+            "source": "[Susan Bunch] : But um, we just refer to you as Bobo the Sperm Guy.",
+            "sbj": "we",
+            "relation": "just refer to",
+            "obj": "Ross Geller"
+        },
+        {
+            "source": "[Susan Bunch] : But um, we just refer to you as Bobo the Sperm Guy.",
+            "sbj": "we",
+            "relation": "um just refer to",
+            "obj": "Ross Geller"
+        },
+        {
+            "source": "[Susan Bunch] : But um, we just refer to you as Bobo the Sperm Guy.",
+            "sbj": "we",
+            "relation": "just refer as",
+            "obj": "Bobo Sperm Guy"
+        },
+        {
+            "source": "[Susan Bunch] : But um, we just refer to you as Bobo the Sperm Guy.",
+            "sbj": "we",
+            "relation": "refer as",
+            "obj": "Bobo Sperm Guy"
+        },
+        {
+            "source": "[Ross Geller] : Look, if she's talking to it, I just think that I should get some belly time too.",
+            "sbj": "Ross Geller",
+            "relation": "think",
+            "obj": "she 's talking to it"
+        },
+        {
+            "source": "[Ross Geller] : Look, if she's talking to it, I just think that I should get some belly time too.",
+            "sbj": "Rachel Green",
+            "relation": "'s talking to",
+            "obj": "it"
+        },
+        {
+            "source": "[Ross Geller] : Look, if she's talking to it, I just think that I should get some belly time too.",
+            "sbj": "Ross Geller",
+            "relation": "think",
+            "obj": "she 's talking"
+        },
+        {
+            "source": "[Ross Geller] : Look, if she's talking to it, I just think that I should get some belly time too.",
+            "sbj": "Ross Geller",
+            "relation": "just think",
+            "obj": "she 's talking to it"
+        },
+        {
+            "source": "[Ross Geller] : Look, if she's talking to it, I just think that I should get some belly time too.",
+            "sbj": "Ross Geller",
+            "relation": "just think",
+            "obj": "she 's talking"
+        },
+        {
+            "source": "[Ross Geller] : Not that I believe any of this.",
+            "sbj": "Ross Geller",
+            "relation": "believe",
+            "obj": "any"
+        },
+        {
+            "source": "[Ross Geller] : Not that I believe any of this.",
+            "sbj": "Ross Geller",
+            "relation": "believe",
+            "obj": "any of this"
+        },
+        {
+            "source": "[Phoebe Buffay] : Oh, I believe it.",
+            "sbj": "Phoebe Buffay",
+            "relation": "believe",
+            "obj": "it"
+        },
+        {
+            "source": "[Phoebe Buffay] : I can show you.",
+            "sbj": "Phoebe Buffay",
+            "relation": "can show",
+            "obj": "Ross Geller"
+        },
+        {
+            "source": "[Chandler Bing] : I'd just like to say that I'm totally behind this experiment.",
+            "sbj": "Chandler Bing",
+            "relation": "'d like",
+            "obj": "say"
+        },
+        {
+            "source": "[Chandler Bing] : I'd just like to say that I'm totally behind this experiment.",
+            "sbj": "Chandler Bing",
+            "relation": "'d just like",
+            "obj": "say"
+        },
+        {
+            "source": "[Chandler Bing] : In fact, I'd very much like to butter your head.",
+            "sbj": "Chandler Bing",
+            "relation": "'d In",
+            "obj": "fact"
+        },
+        {
+            "source": "[Chandler Bing] : In fact, I'd very much like to butter your head.",
+            "sbj": "Chandler Bing",
+            "relation": "'d much In",
+            "obj": "fact"
+        },
+        {
+            "source": "[Chandler Bing] : In fact, I'd very much like to butter your head.",
+            "sbj": "Chandler Bing",
+            "relation": "'d very much In",
+            "obj": "fact"
+        },
+        {
+            "source": "[Monica Geller] : Hey, Rach, did you make your money?",
+            "sbj": "Rachel Green",
+            "relation": "did make",
+            "obj": "your money"
+        },
+        {
+            "source": "[Monica Geller] : Hey, Rach, did you make your money?",
+            "sbj": "Rach",
+            "relation": "did make",
+            "obj": "your money"
+        },
+        {
+            "source": "[Monica Geller] : Rach, here's your mail.",
+            "sbj": "here",
+            "relation": "has",
+            "obj": "mail"
+        },
+        {
+            "source": "[Monica Geller] : Rach, here's your mail.",
+            "sbj": "Rach",
+            "relation": "mail",
+            "obj": "Rachel Green"
+        },
+        {
+            "source": "[Rachel Green] : Thanks, you can just put it on the table.",
+            "sbj": "Monica Geller",
+            "relation": "can just put",
+            "obj": "it"
+        },
+        {
+            "source": "[Rachel Green] : Thanks, you can just put it on the table.",
+            "sbj": "Monica Geller",
+            "relation": "can put",
+            "obj": "it"
+        },
+        {
+            "source": "[Rachel Green] : Thanks, you can just put it on the table.",
+            "sbj": "Monica Geller",
+            "relation": "can just put",
+            "obj": "it"
+        },
+        {
+            "source": "[Rachel Green] : Thanks, you can just put it on the table.",
+            "sbj": "Monica Geller",
+            "relation": "can put",
+            "obj": "it"
+        },
+        {
+            "source": "[Monica Geller] : Would you just open it?",
+            "sbj": "Rachel Green",
+            "relation": "Would open",
+            "obj": "it"
+        },
+        {
+            "source": "[Monica Geller] : Would you just open it?",
+            "sbj": "Rachel Green",
+            "relation": "Would just open",
+            "obj": "it"
+        },
+        {
+            "source": "[Rachel Green] : Oh my god, oh, you guys are great.",
+            "sbj": "you guys",
+            "relation": "are",
+            "obj": "great"
+        },
+        {
+            "source": "[Monica Geller] : You owe me 20 bucks.",
+            "sbj": "Joey Tribbiani",
+            "relation": "owe",
+            "obj": "20 bucks"
+        },
+        {
+            "source": "[Monica Geller] : You owe me 20 bucks.",
+            "sbj": "Joey Tribbiani",
+            "relation": "owe",
+            "obj": "Monica Geller"
+        },
+        {
+            "source": "[Monica Geller] : Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.",
+            "sbj": "Chandler Bing",
+            "relation": "got",
+            "obj": "your family size bag of Funyuns"
+        },
+        {
+            "source": "[Monica Geller] : Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.",
+            "sbj": "Chandler Bing",
+            "relation": "got",
+            "obj": "your tomato soup"
+        },
+        {
+            "source": "[Monica Geller] : Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.",
+            "sbj": "Chandler Bing",
+            "relation": "got",
+            "obj": "your family size bag"
+        },
+        {
+            "source": "[Monica Geller] : Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.",
+            "sbj": "Chandler Bing",
+            "relation": "got",
+            "obj": "your cheese fixin"
+        },
+        {
+            "source": "[Monica Geller] : Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.",
+            "sbj": "Chandler Bing",
+            "relation": "got",
+            "obj": "your grilled cheese fixin"
+        },
+        {
+            "source": "[Ross Geller] : Oh, I hate this story.",
+            "sbj": "Ross Geller",
+            "relation": "hate",
+            "obj": "story"
+        },
+        {
+            "source": "[Chandler Bing] : We just finished this magnificent Thanksgiving dinner.",
+            "sbj": "We",
+            "relation": "finished",
+            "obj": "magnificent Thanksgiving dinner"
+        },
+        {
+            "source": "[Chandler Bing] : We just finished this magnificent Thanksgiving dinner.",
+            "sbj": "We",
+            "relation": "just finished",
+            "obj": "Thanksgiving dinner"
+        },
+        {
+            "source": "[Chandler Bing] : We just finished this magnificent Thanksgiving dinner.",
+            "sbj": "We",
+            "relation": "finished",
+            "obj": "Thanksgiving dinner"
+        },
+        {
+            "source": "[Chandler Bing] : We just finished this magnificent Thanksgiving dinner.",
+            "sbj": "We",
+            "relation": "just finished",
+            "obj": "magnificent Thanksgiving dinner"
+        },
+        {
+            "source": "[Chandler Bing] : I have--and I remember this part vividly--a mouthful of pumpkin pie, and this is the moment my parents choose to tell me they're getting divorced.",
+            "sbj": "Chandler Bing",
+            "relation": "remember",
+            "obj": "part"
+        },
+        {
+            "source": "[Chandler Bing] : I have--and I remember this part vividly--a mouthful of pumpkin pie, and this is the moment my parents choose to tell me they're getting divorced.",
+            "sbj": "Chandler Bing",
+            "relation": "mouthful of",
+            "obj": "pumpkin pie"
+        },
+        {
+            "source": "[Chandler Bing] : I have--and I remember this part vividly--a mouthful of pumpkin pie, and this is the moment my parents choose to tell me they're getting divorced.",
+            "sbj": "my parents",
+            "relation": "tell",
+            "obj": "Chandler Bing"
+        },
+        {
+            "source": "[Chandler Bing] : I have--and I remember this part vividly--a mouthful of pumpkin pie, and this is the moment my parents choose to tell me they're getting divorced.",
+            "sbj": "Chandler Bing",
+            "relation": "remember vividly",
+            "obj": "part"
+        },
+        {
+            "source": "[Chandler Bing] : I have--and I remember this part vividly--a mouthful of pumpkin pie, and this is the moment my parents choose to tell me they're getting divorced.",
+            "sbj": "they",
+            "relation": "getting",
+            "obj": "divorced"
+        },
+        {
+            "source": "[Chandler Bing] : It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse.",
+            "sbj": "It",
+            "relation": "has",
+            "obj": "very difficult"
+        },
+        {
+            "source": "[Chandler Bing] : It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse.",
+            "sbj": "Joey Tribbiani",
+            "relation": "once 've seen in",
+            "obj": "reverse"
+        },
+        {
+            "source": "[Chandler Bing] : It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse.",
+            "sbj": "Joey Tribbiani",
+            "relation": "'ve seen",
+            "obj": "it"
+        },
+        {
+            "source": "[Chandler Bing] : It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse.",
+            "sbj": "It",
+            "relation": "appreciate",
+            "obj": "Thanksgiving dinner"
+        },
+        {
+            "source": "[Chandler Bing] : It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse.",
+            "sbj": "It",
+            "relation": "has",
+            "obj": "difficult"
+        },
+        {
+            "source": "[Chandler Bing] : It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse.",
+            "sbj": "Joey Tribbiani",
+            "relation": "'ve seen in",
+            "obj": "reverse"
+        },
+        {
+            "source": "[Chandler Bing] : It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse.",
+            "sbj": "Joey Tribbiani",
+            "relation": "once 've seen",
+            "obj": "it"
+        },
+        {
+            "source": "[Joey Tribbiani] : We uh, we used to work together.",
+            "sbj": "we",
+            "relation": "used",
+            "obj": "work"
+        },
+        {
+            "source": "[Joey Tribbiani] : We uh, we used to work together.",
+            "sbj": "we",
+            "relation": "used",
+            "obj": "work together"
+        },
+        {
+            "source": "[Joey Tribbiani] : You were the Obsession girl, right?",
+            "sbj": "Ross Geller",
+            "relation": "were",
+            "obj": "Obsession girl"
+        },
+        {
+            "source": "[Joey Tribbiani] : I was the Aramis guy.",
+            "sbj": "Joey Tribbiani",
+            "relation": "was",
+            "obj": "Aramis guy"
+        },
+        {
+            "source": "[Joey Tribbiani] : I gotta tell you.",
+            "sbj": "Joey Tribbiani",
+            "relation": "tell",
+            "obj": "Chandler Bing"
+        },
+        {
+            "source": "[Joey Tribbiani] : You're the best in the business.",
+            "sbj": "Phoebe Buffay",
+            "relation": "'re best in",
+            "obj": "business"
+        },
+        {
+            "source": "[Joey Tribbiani] : You're the best in the business.",
+            "sbj": "Phoebe Buffay",
+            "relation": "'re",
+            "obj": "best"
+        },
+        {
+            "source": "[Joey Tribbiani] : I'm serious.",
+            "sbj": "Joey Tribbiani",
+            "relation": "'m",
+            "obj": "serious"
+        },
+        {
+            "source": "[Joey Tribbiani] : You're amazing.",
+            "sbj": "Rachel Green",
+            "relation": "'re",
+            "obj": "amazing"
+        },
+        {
+            "source": "[Joey Tribbiani] : Ooh, you smell great tonight.",
+            "sbj": "Rachel Green",
+            "relation": "Ooh smell at_time",
+            "obj": "great tonight"
+        },
+        {
+            "source": "[Joey Tribbiani] : Ooh, you smell great tonight.",
+            "sbj": "Rachel Green",
+            "relation": "Ooh smell at_time",
+            "obj": "tonight"
+        },
+        {
+            "source": "[Joey Tribbiani] : Ooh, you smell great tonight.",
+            "sbj": "Rachel Green",
+            "relation": "smell at_time",
+            "obj": "great tonight"
+        },
+        {
+            "source": "[Joey Tribbiani] : Ooh, you smell great tonight.",
+            "sbj": "Rachel Green",
+            "relation": "smell at_time",
+            "obj": "tonight"
+        },
+        {
+            "source": "[Joey Tribbiani] : Listen, uh, you wanna go get a drink or something?",
+            "sbj": "Ross Geller",
+            "relation": "wan",
+            "obj": "go"
+        },
+        {
+            "source": "[Girl] : I just remembered, I have to do something.",
+            "sbj": "Girl",
+            "relation": "do",
+            "obj": "something"
+        },
+        {
+            "source": "[Joey Tribbiani] : So I guess you all saw it.",
+            "sbj": "Ross Geller",
+            "relation": "saw",
+            "obj": "it"
+        },
+        {
+            "source": "[Phoebe Buffay] : You know, how laughter can be infectious.",
+            "sbj": "laughter",
+            "relation": "be",
+            "obj": "how infectious"
+        },
+        {
+            "source": "[Phoebe Buffay] : You know, how laughter can be infectious.",
+            "sbj": "laughter",
+            "relation": "be",
+            "obj": "infectious"
+        },
+        {
+            "source": "[Monica Geller] : Ok, cider's mulling, turkey's turking, yams are yamming.",
+            "sbj": "turkey",
+            "relation": "has",
+            "obj": "turking"
+        },
+        {
+            "source": "[Ross Geller] : That's closer.",
+            "sbj": "That",
+            "relation": "has",
+            "obj": "closer"
+        },
+        {
+            "source": "[Rachel Green] : I got the tickets!",
+            "sbj": "Rachel Green",
+            "relation": "got",
+            "obj": "tickets"
+        },
+        {
+            "source": "[Rachel Green] : I got the tickets!",
+            "sbj": "Rachel Green",
+            "relation": "got",
+            "obj": "tickets"
+        },
+        {
+            "source": "[Chandler Bing] : Oh, you must stop shooping.",
+            "sbj": "Ross Geller",
+            "relation": "must stop",
+            "obj": "shooping"
+        },
+        {
+            "source": "[Rachel Green] : Ok, I'm gonna get my stuff.",
+            "sbj": "Rachel Green",
+            "relation": "get",
+            "obj": "my stuff"
+        },
+        {
+            "source": "[Chandler Bing] : No, I prefer to keep a safe distance from all this merriment.",
+            "sbj": "Chandler Bing",
+            "relation": "keep distance from",
+            "obj": "merriment"
+        },
+        {
+            "source": "[Chandler Bing] : Ok, we all laughed when you did it with the stuffing, but that's not funny anymore.",
+            "sbj": "Phoebe Buffay",
+            "relation": "did",
+            "obj": "it"
+        },
+        {
+            "source": "[Joey Tribbiani] : Hey, Monica, I got a question.",
+            "sbj": "Monica",
+            "relation": "got",
+            "obj": "question"
+        },
+        {
+            "source": "[Joey Tribbiani] : Hey, Monica, I got a question.",
+            "sbj": "Joey Tribbiani",
+            "relation": "got",
+            "obj": "question"
+        },
+        {
+            "source": "[Joey Tribbiani] : But my mom always makes them.",
+            "sbj": "my mom",
+            "relation": "makes",
+            "obj": "them"
+        },
+        {
+            "source": "[Joey Tribbiani] : But my mom always makes them.",
+            "sbj": "my mom",
+            "relation": "always makes",
+            "obj": "them"
+        },
+        {
+            "source": "[Joey Tribbiani] : It's like a tradition.",
+            "sbj": "It",
+            "relation": "'s like",
+            "obj": "tradition"
+        },
+        {
+            "source": "[Joey Tribbiani] : You get a little piece of turkey on your fork, a little cranberry sauce, and a tot!",
+            "sbj": "Ross Geller",
+            "relation": "fork",
+            "obj": "little cranberry sauce"
+        },
+        {
+            "source": "[Joey Tribbiani] : You get a little piece of turkey on your fork, a little cranberry sauce, and a tot!",
+            "sbj": "Ross Geller",
+            "relation": "get piece on",
+            "obj": "your fork"
+        },
+        {
+            "source": "[Joey Tribbiani] : You get a little piece of turkey on your fork, a little cranberry sauce, and a tot!",
+            "sbj": "Ross Geller",
+            "relation": "get",
+            "obj": "piece of turkey"
+        },
+        {
+            "source": "[Joey Tribbiani] : You get a little piece of turkey on your fork, a little cranberry sauce, and a tot!",
+            "sbj": "Ross Geller",
+            "relation": "get piece on",
+            "obj": "little cranberry sauce"
+        },
+        {
+            "source": "[Joey Tribbiani] : You get a little piece of turkey on your fork, a little cranberry sauce, and a tot!",
+            "sbj": "Ross Geller",
+            "relation": "get piece on",
+            "obj": "cranberry sauce"
+        },
+        {
+            "source": "[Joey Tribbiani] : You get a little piece of turkey on your fork, a little cranberry sauce, and a tot!",
+            "sbj": "Ross Geller",
+            "relation": "get",
+            "obj": "little piece"
+        },
+        {
+            "source": "[Joey Tribbiani] : You get a little piece of turkey on your fork, a little cranberry sauce, and a tot!",
+            "sbj": "Ross Geller",
+            "relation": "get",
+            "obj": "little piece of turkey"
+        },
+        {
+            "source": "[Joey Tribbiani] : You get a little piece of turkey on your fork, a little cranberry sauce, and a tot!",
+            "sbj": "Ross Geller",
+            "relation": "get",
+            "obj": "piece"
+        },
+        {
+            "source": "[Monica Geller] : Tonight's potatoes will be both mashed with lumps, and in the form of tots.",
+            "sbj": "Tonight",
+            "relation": "has",
+            "obj": "potatoes"
+        },
+        {
+            "source": "[Monica Geller] : Tonight's potatoes will be both mashed with lumps, and in the form of tots.",
+            "sbj": "Tonight 's potatoes",
+            "relation": "will",
+            "obj": "will mashed with lumps"
+        },
+        {
+            "source": "[Monica Geller] : Tonight's potatoes will be both mashed with lumps, and in the form of tots.",
+            "sbj": "Tonight 's potatoes",
+            "relation": "will",
+            "obj": "will mashed"
+        },
+        {
+            "source": "[Ross Geller] : Ok, I'm off to talk to my unborn child.",
+            "sbj": "Ross Geller",
+            "relation": "'m off",
+            "obj": "talk to my child"
+        },
+        {
+            "source": "[Ross Geller] : Ok, I'm off to talk to my unborn child.",
+            "sbj": "Ok",
+            "relation": "'m off",
+            "obj": "talk to my unborn child"
+        },
+        {
+            "source": "[Ross Geller] : Ok, I'm off to talk to my unborn child.",
+            "sbj": "Ross Geller",
+            "relation": "'m off",
+            "obj": "talk to my unborn child"
+        },
+        {
+            "source": "[Ross Geller] : Ok, I'm off to talk to my unborn child.",
+            "sbj": "Ok",
+            "relation": "'m off",
+            "obj": "talk to my child"
+        },
+        {
+            "source": "[Ross Geller] : Ok, I'm off to talk to my unborn child.",
+            "sbj": "Ross Geller",
+            "relation": "talk to",
+            "obj": "my unborn child"
+        },
+        {
+            "source": "[Ross Geller] : Ok, I'm off to talk to my unborn child.",
+            "sbj": "Ok",
+            "relation": "'m off",
+            "obj": "talk"
+        },
+        {
+            "source": "[Ross Geller] : Ok, I'm off to talk to my unborn child.",
+            "sbj": "Ross Geller",
+            "relation": "'m off",
+            "obj": "talk"
+        },
+        {
+            "source": "[Ross Geller] : Ok, I'm off to talk to my unborn child.",
+            "sbj": "Ross Geller",
+            "relation": "talk to",
+            "obj": "my child"
+        },
+        {
+            "source": "[Monica Geller] : What, Phoebe, did you whip the potatoes?",
+            "sbj": "Phoebe Buffay",
+            "relation": "did whip",
+            "obj": "potatoes"
+        },
+        {
+            "source": "[Monica Geller] : What, Phoebe, did you whip the potatoes?",
+            "sbj": "Phoebe",
+            "relation": "did whip",
+            "obj": "potatoes"
+        },
+        {
+            "source": "[Monica Geller] : Ross needs lumps!",
+            "sbj": "Ross",
+            "relation": "needs",
+            "obj": "lumps"
+        },
+        {
+            "source": "[Phoebe Buffay] : Oh, I'm sorry, oh, I just, I thought we could have them whipped and then add some peas and onions.",
+            "sbj": "Phoebe Buffay",
+            "relation": "'m",
+            "obj": "sorry"
+        },
+        {
+            "source": "[Monica Geller] : Ok, three kinds of potatoes coming up.",
+            "sbj": "Ok",
+            "relation": "kinds of",
+            "obj": "potatoes"
+        },
+        {
+            "source": "[Chandler Bing] : It's all over the news.",
+            "sbj": "It",
+            "relation": "has",
+            "obj": "all"
+        },
+        {
+            "source": "[Chandler Bing] : It's all over the news.",
+            "sbj": "It",
+            "relation": "'s all over",
+            "obj": "news"
+        },
+        {
+            "source": "[Chandler Bing] : Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park.",
+            "sbj": "Joey Tribbiani",
+            "relation": "reached",
+            "obj": "Macy"
+        },
+        {
+            "source": "[Chandler Bing] : Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park.",
+            "sbj": "Underdog",
+            "relation": "broke",
+            "obj": "free"
+        },
+        {
+            "source": "[Chandler Bing] : Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park.",
+            "sbj": "Underdog",
+            "relation": "spotted flying over",
+            "obj": "Washington Square Park"
+        },
+        {
+            "source": "[Chandler Bing] : Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park.",
+            "sbj": "Underdog",
+            "relation": "flying over",
+            "obj": "Washington Square Park"
+        },
+        {
+            "source": "[Chandler Bing] : Right before he reached Macy's, he broke free and was spotted flying over Washington Square Park.",
+            "sbj": "Joey Tribbiani",
+            "relation": "Right reached",
+            "obj": "Macy"
+        },
+        {
+            "source": "[Chandler Bing] : I'm goin' to the roof, who's with me?",
+            "sbj": "Chandler Bing",
+            "relation": "'m",
+            "obj": "goin"
+        },
+        {
+            "source": "[Chandler Bing] : I'm goin' to the roof, who's with me?",
+            "sbj": "Chandler Bing",
+            "relation": "'m goin to",
+            "obj": "roof"
+        },
+        {
+            "source": "[Chandler Bing] : An 80-foot inflatable dog let loose over the city.",
+            "sbj": "dog",
+            "relation": "let",
+            "obj": "loose over city"
+        },
+        {
+            "source": "[Chandler Bing] : An 80-foot inflatable dog let loose over the city.",
+            "sbj": "80-foot dog",
+            "relation": "let",
+            "obj": "loose over city"
+        },
+        {
+            "source": "[Chandler Bing] : An 80-foot inflatable dog let loose over the city.",
+            "sbj": "80-foot inflatable dog",
+            "relation": "let",
+            "obj": "loose over city"
+        },
+        {
+            "source": "[Chandler Bing] : An 80-foot inflatable dog let loose over the city.",
+            "sbj": "inflatable dog",
+            "relation": "let",
+            "obj": "loose over city"
+        },
+        {
+            "source": "[Chandler Bing] : An 80-foot inflatable dog let loose over the city.",
+            "sbj": "80-foot inflatable dog",
+            "relation": "let",
+            "obj": "loose"
+        },
+        {
+            "source": "[Chandler Bing] : An 80-foot inflatable dog let loose over the city.",
+            "sbj": "inflatable dog",
+            "relation": "let",
+            "obj": "loose"
+        },
+        {
+            "source": "[Chandler Bing] : An 80-foot inflatable dog let loose over the city.",
+            "sbj": "80-foot dog",
+            "relation": "let",
+            "obj": "loose"
+        },
+        {
+            "source": "[Chandler Bing] : An 80-foot inflatable dog let loose over the city.",
+            "sbj": "dog",
+            "relation": "let",
+            "obj": "loose"
+        },
+        {
+            "source": "[Carol Willick] : Anytime you're ready.",
+            "sbj": "Ross Geller",
+            "relation": "'re",
+            "obj": "ready"
+        },
+        {
+            "source": "[Carol Willick] : Anytime you're ready.",
+            "sbj": "Ross Geller",
+            "relation": "'re",
+            "obj": "Anytime ready"
+        },
+        {
+            "source": "[Ross Geller] : Uh, this is too weird.",
+            "sbj": "this",
+            "relation": "is",
+            "obj": "Uh too weird"
+        },
+        {
+            "source": "[Ross Geller] : I feel stupid.",
+            "sbj": "Ross Geller",
+            "relation": "feel",
+            "obj": "stupid"
+        },
+        {
+            "source": "[Rachel Green] : I loved the moment when you first saw the giant dog shadow all over the park.",
+            "sbj": "Phoebe Buffay",
+            "relation": "first saw dog shadow over",
+            "obj": "park"
+        },
+        {
+            "source": "[Rachel Green] : I loved the moment when you first saw the giant dog shadow all over the park.",
+            "sbj": "Rachel Green",
+            "relation": "loved",
+            "obj": "moment"
+        },
+        {
+            "source": "[Rachel Green] : I loved the moment when you first saw the giant dog shadow all over the park.",
+            "sbj": "Phoebe Buffay",
+            "relation": "saw dog shadow over",
+            "obj": "park"
+        },
+        {
+            "source": "[Rachel Green] : I loved the moment when you first saw the giant dog shadow all over the park.",
+            "sbj": "Phoebe Buffay",
+            "relation": "saw dog shadow over",
+            "obj": "all park"
+        },
+        {
+            "source": "[Rachel Green] : I loved the moment when you first saw the giant dog shadow all over the park.",
+            "sbj": "Phoebe Buffay",
+            "relation": "first saw dog shadow over",
+            "obj": "all park"
+        },
+        {
+            "source": "[Phoebe Buffay] : Yeah, but did they have to shoot him down?",
+            "sbj": "they",
+            "relation": "shoot down",
+            "obj": "Chandler Bing"
+        },
+        {
+            "source": "[Rachel Green] : We're waiting for you to open the door.",
+            "sbj": "Monica Geller",
+            "relation": "open",
+            "obj": "door"
+        },
+        {
+            "source": "[Rachel Green] : You got the keys.",
+            "sbj": "Monica Geller",
+            "relation": "got",
+            "obj": "keys"
+        },
+        {
+            "source": "[Rachel Green] : No, no, no, you said, \"got the keys\".",
+            "sbj": "no",
+            "relation": "got",
+            "obj": "keys"
+        },
+        {
+            "source": "[Chandler Bing] : Do either of you have the keys?",
+            "sbj": "either",
+            "relation": "Do have",
+            "obj": "keys"
+        },
+        {
+            "source": "[Monica Geller] : The oven is on.",
+            "sbj": "oven",
+            "relation": "is",
+            "obj": "on"
+        },
+        {
+            "source": "[Rachel Green] : Oh, I gotta get my ticket!",
+            "sbj": "Rachel Green",
+            "relation": "get",
+            "obj": "my ticket"
+        },
+        {
+            "source": "[Joey Tribbiani] : Wait, wait, we have a copy of your key.",
+            "sbj": "we",
+            "relation": "have",
+            "obj": "copy"
+        },
+        {
+            "source": "[Joey Tribbiani] : Wait, wait, we have a copy of your key.",
+            "sbj": "we",
+            "relation": "have",
+            "obj": "copy of your key"
+        },
+        {
+            "source": "[Ross Geller] : And everyone's telling me, you gotta pick a major, you gotta pick a major.",
+            "sbj": "everyone",
+            "relation": "telling",
+            "obj": "Ross Geller"
+        },
+        {
+            "source": "[Ross Geller] : And everyone's telling me, you gotta pick a major, you gotta pick a major.",
+            "sbj": "Ross Geller",
+            "relation": "pick",
+            "obj": "major"
+        },
+        {
+            "source": "[Ross Geller] : And everyone's telling me, you gotta pick a major, you gotta pick a major.",
+            "sbj": "Ross Geller",
+            "relation": "pick",
+            "obj": "major"
+        },
+        {
+            "source": "[Ross Geller] : So, on a dare, I picked paleontology.",
+            "sbj": "Ross Geller",
+            "relation": "picked",
+            "obj": "paleontology"
+        },
+        {
+            "source": "[Ross Geller] : So, on a dare, I picked paleontology.",
+            "sbj": "Ross Geller",
+            "relation": "So picked paleontology on",
+            "obj": "dare"
+        },
+        {
+            "source": "[Ross Geller] : So, on a dare, I picked paleontology.",
+            "sbj": "Ross Geller",
+            "relation": "picked paleontology on",
+            "obj": "dare"
+        },
+        {
+            "source": "[Ross Geller] : So, on a dare, I picked paleontology.",
+            "sbj": "Ross Geller",
+            "relation": "So picked",
+            "obj": "paleontology"
+        },
+        {
+            "source": "[Ross Geller] : And you have no idea what I'm saying, because, let's face it, you're a fetus.",
+            "sbj": "Ben",
+            "relation": "'re",
+            "obj": "fetus"
+        },
+        {
+            "source": "[Carol Willick] : You can sing to it if you want.",
+            "sbj": "Ross Geller",
+            "relation": "can sing",
+            "obj": "you want"
+        },
+        {
+            "source": "[Carol Willick] : You can sing to it if you want.",
+            "sbj": "Ross Geller",
+            "relation": "can sing to",
+            "obj": "it"
+        },
+        {
+            "source": "[Ross Geller] : Here we come, walkin' down the street, get the funniest looks from, everyone we meet.",
+            "sbj": "we",
+            "relation": "Here come",
+            "obj": "everyone"
+        },
+        {
+            "source": "[Ross Geller] : Here we come, walkin' down the street, get the funniest looks from, everyone we meet.",
+            "sbj": "we",
+            "relation": "come",
+            "obj": "get"
+        },
+        {
+            "source": "[Ross Geller] : Here we come, walkin' down the street, get the funniest looks from, everyone we meet.",
+            "sbj": "we",
+            "relation": "come",
+            "obj": "everyone"
+        },
+        {
+            "source": "[Ross Geller] : Here we come, walkin' down the street, get the funniest looks from, everyone we meet.",
+            "sbj": "we",
+            "relation": "Here come",
+            "obj": "walkin down street"
+        },
+        {
+            "source": "[Ross Geller] : Here we come, walkin' down the street, get the funniest looks from, everyone we meet.",
+            "sbj": "we",
+            "relation": "walkin down",
+            "obj": "street"
+        },
+        {
+            "source": "[Ross Geller] : Here we come, walkin' down the street, get the funniest looks from, everyone we meet.",
+            "sbj": "we",
+            "relation": "come",
+            "obj": "walkin down street"
+        },
+        {
+            "source": "[Ross Geller] : Here we come, walkin' down the street, get the funniest looks from, everyone we meet.",
+            "sbj": "we",
+            "relation": "Here come",
+            "obj": "walkin"
+        },
+        {
+            "source": "[Ross Geller] : Here we come, walkin' down the street, get the funniest looks from, everyone we meet.",
+            "sbj": "we",
+            "relation": "Here come",
+            "obj": "get"
+        },
+        {
+            "source": "[Ross Geller] : Here we come, walkin' down the street, get the funniest looks from, everyone we meet.",
+            "sbj": "we",
+            "relation": "come",
+            "obj": "walkin"
+        },
+        {
+            "source": "[Ross Geller] : When you come out I'll buy you a bagel, and then we'll go to the zoo.",
+            "sbj": "Ross Geller",
+            "relation": "buy",
+            "obj": "bagel"
+        },
+        {
+            "source": "[Ross Geller] : When you come out I'll buy you a bagel, and then we'll go to the zoo.",
+            "sbj": "we",
+            "relation": "'ll go to",
+            "obj": "zoo"
+        },
+        {
+            "source": "[Ross Geller] : When you come out I'll buy you a bagel, and then we'll go to the zoo.",
+            "sbj": "Ross Geller",
+            "relation": "buy",
+            "obj": "Ben"
+        },
+        {
+            "source": "[Susan Bunch] : I felt it!",
+            "sbj": "Susan Bunch",
+            "relation": "felt",
+            "obj": "it"
+        },
+        {
+            "source": "[Ross Geller] : Hey, hey, I'm your daddy.",
+            "sbj": "Ross Geller",
+            "relation": "'m",
+            "obj": "your daddy"
+        },
+        {
+            "source": "[Ross Geller] : I'm the one without any breasts.",
+            "sbj": "Ross Geller",
+            "relation": "'m one without",
+            "obj": "breasts"
+        },
+        {
+            "source": "[Joey Tribbiani] : Hey, I got one keyhole and about a zillion keys.",
+            "sbj": "Joey Tribbiani",
+            "relation": "got",
+            "obj": "one keyhole"
+        },
+        {
+            "source": "[Joey Tribbiani] : Hey, I got one keyhole and about a zillion keys.",
+            "sbj": "Joey Tribbiani",
+            "relation": "got",
+            "obj": "zillion keys"
+        },
+        {
+            "source": "[Joey Tribbiani] : You do the math.",
+            "sbj": "Ross Geller",
+            "relation": "do",
+            "obj": "math"
+        },
+        {
+            "source": "[Monica Geller] : Why do you guys have so many keys in there anyway?",
+            "sbj": "do you guys",
+            "relation": "have anyway",
+            "obj": "so many keys"
+        },
+        {
+            "source": "[Monica Geller] : Why do you guys have so many keys in there anyway?",
+            "sbj": "do you guys",
+            "relation": "have",
+            "obj": "keys"
+        },
+        {
+            "source": "[Monica Geller] : Why do you guys have so many keys in there anyway?",
+            "sbj": "do you guys",
+            "relation": "have",
+            "obj": "so many keys"
+        },
+        {
+            "source": "[Monica Geller] : Why do you guys have so many keys in there anyway?",
+            "sbj": "do you guys",
+            "relation": "have anyway",
+            "obj": "many keys"
+        },
+        {
+            "source": "[Monica Geller] : Why do you guys have so many keys in there anyway?",
+            "sbj": "do you guys",
+            "relation": "have keys anyway in",
+            "obj": "there"
+        },
+        {
+            "source": "[Monica Geller] : Why do you guys have so many keys in there anyway?",
+            "sbj": "do you guys",
+            "relation": "have",
+            "obj": "many keys"
+        },
+        {
+            "source": "[Monica Geller] : Why do you guys have so many keys in there anyway?",
+            "sbj": "do you guys",
+            "relation": "have anyway",
+            "obj": "keys"
+        },
+        {
+            "source": "[Monica Geller] : Why do you guys have so many keys in there anyway?",
+            "sbj": "do you guys",
+            "relation": "have keys in",
+            "obj": "there"
+        },
+        {
+            "source": "[Rachel Green] : If it wasn't for you and your stupid balloon, I would be on a plane watching a woman do this right now.",
+            "sbj": "Rachel Green",
+            "relation": "watching",
+            "obj": "Rachel Green"
+        },
+        {
+            "source": "[Rachel Green] : If it wasn't for you and your stupid balloon, I would be on a plane watching a woman do this right now.",
+            "sbj": "Rachel Green",
+            "relation": "would on",
+            "obj": "would plane"
+        },
+        {
+            "source": "[Rachel Green] : But I'm not.",
+            "sbj": "Rachel Green",
+            "relation": "'m",
+            "obj": "not"
+        },
+        {
+            "source": "[Phoebe Buffay] : Enough with the keys.",
+            "sbj": "Enough",
+            "relation": "is with",
+            "obj": "keys"
+        },
+        {
+            "source": "[Monica Geller] : Why would I have the keys?",
+            "sbj": "Monica Geller",
+            "relation": "would have",
+            "obj": "keys"
+        },
+        {
+            "source": "[Monica Geller] : Because everything is my responsibility?",
+            "sbj": "everything",
+            "relation": "is",
+            "obj": "my responsibility"
+        },
+        {
+            "source": "[Monica Geller] : You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes.",
+            "sbj": "Monica Geller",
+            "relation": "kinds of",
+            "obj": "potatoes"
+        },
+        {
+            "source": "[Monica Geller] : You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes.",
+            "sbj": "everyone",
+            "relation": "kind of",
+            "obj": "potatoes"
+        },
+        {
+            "source": "[Monica Geller] : You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes.",
+            "sbj": "Monica Geller",
+            "relation": "'m making",
+            "obj": "kinds of potatoes"
+        },
+        {
+            "source": "[Monica Geller] : You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes.",
+            "sbj": "Monica Geller",
+            "relation": "'m making",
+            "obj": "different kinds"
+        },
+        {
+            "source": "[Monica Geller] : You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes.",
+            "sbj": "everyone",
+            "relation": "wants",
+            "obj": "different kind"
+        },
+        {
+            "source": "[Monica Geller] : You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes.",
+            "sbj": "everyone",
+            "relation": "wants",
+            "obj": "different kind of potatoes"
+        },
+        {
+            "source": "[Monica Geller] : You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes.",
+            "sbj": "everyone",
+            "relation": "wants",
+            "obj": "kind"
+        },
+        {
+            "source": "[Monica Geller] : You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes.",
+            "sbj": "Monica Geller",
+            "relation": "'m making",
+            "obj": "different kinds of potatoes"
+        },
+        {
+            "source": "[Monica Geller] : You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes.",
+            "sbj": "Monica Geller",
+            "relation": "'m making",
+            "obj": "kinds"
+        },
+        {
+            "source": "[Monica Geller] : You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes.",
+            "sbj": "Monica Geller",
+            "relation": "different kinds of",
+            "obj": "potatoes"
+        },
+        {
+            "source": "[Monica Geller] : You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes.",
+            "sbj": "everyone",
+            "relation": "different kind of",
+            "obj": "potatoes"
+        },
+        {
+            "source": "[Monica Geller] : You know, everyone wants a different kind of potatoes, so I'm making different kinds of potatoes.",
+            "sbj": "everyone",
+            "relation": "wants",
+            "obj": "kind of potatoes"
+        },
+        {
+            "source": "[Monica Geller] : Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I...",
+            "sbj": "it",
+            "relation": "has",
+            "obj": "my first Thanksgiving"
+        },
+        {
+            "source": "[Monica Geller] : Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I...",
+            "sbj": "it",
+            "relation": "has",
+            "obj": "burned"
+        },
+        {
+            "source": "[Monica Geller] : Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I...",
+            "sbj": "Phoebe",
+            "relation": "gets",
+            "obj": "onions"
+        },
+        {
+            "source": "[Monica Geller] : Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I...",
+            "sbj": "it",
+            "relation": "has",
+            "obj": "my Thanksgiving"
+        },
+        {
+            "source": "[Monica Geller] : Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I...",
+            "sbj": "Phoebe",
+            "relation": "gets",
+            "obj": "her peas"
+        },
+        {
+            "source": "[Monica Geller] : Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I...",
+            "sbj": "Mario",
+            "relation": "gets",
+            "obj": "his tots"
+        },
+        {
+            "source": "[Monica Geller] : Just as long as Phoebe gets her peas and onions, and Mario gets his tots, and it's my first Thanksgiving, and it's all burned, and, and I... I...",
+            "sbj": "it",
+            "relation": "has",
+            "obj": "all burned"
+        },
+        {
+            "source": "[Chandler Bing] : Ok, Monica, only dogs can hear you now, so, look, the door's open.",
+            "sbj": "dogs",
+            "relation": "can hear",
+            "obj": "Monica Geller"
+        },
+        {
+            "source": "[Chandler Bing] : Ok, Monica, only dogs can hear you now, so, look, the door's open.",
+            "sbj": "dogs",
+            "relation": "can hear now so",
+            "obj": "Monica Geller"
+        },
+        {
+            "source": "[Chandler Bing] : Ok, Monica, only dogs can hear you now, so, look, the door's open.",
+            "sbj": "dogs",
+            "relation": "can hear now",
+            "obj": "Monica Geller"
+        },
+        {
+            "source": "[Chandler Bing] : Ok, Monica, only dogs can hear you now, so, look, the door's open.",
+            "sbj": "dogs",
+            "relation": "can hear so",
+            "obj": "Monica Geller"
+        },
+        {
+            "source": "[Monica Geller] : Potatoes are ruined, potatoes are ruined, potatoes are ruined.",
+            "sbj": "Potatoes",
+            "relation": "are",
+            "obj": "ruined"
+        },
+        {
+            "source": "[Monica Geller] : Potatoes are ruined, potatoes are ruined, potatoes are ruined.",
+            "sbj": "potatoes",
+            "relation": "are",
+            "obj": "ruined"
+        },
+        {
+            "source": "[Monica Geller] : Potatoes are ruined, potatoes are ruined, potatoes are ruined.",
+            "sbj": "potatoes",
+            "relation": "are",
+            "obj": "ruined"
+        },
+        {
+            "source": "[Monica Geller] : But you wanted lumps, Ross?",
+            "sbj": "Ross Geller",
+            "relation": "wanted",
+            "obj": "lumps"
+        },
+        {
+            "source": "[Monica Geller] : But you wanted lumps, Ross?",
+            "sbj": "Ross Geller",
+            "relation": "wanted",
+            "obj": "Ross"
+        },
+        {
+            "source": "[Monica Geller] : Well, here you go, buddy, ya got one.",
+            "sbj": "ya",
+            "relation": "got",
+            "obj": "one"
+        },
+        {
+            "source": "[Rachel Green] : The plane is gone, so it looks like I'm stuck here with you guys.",
+            "sbj": "plane",
+            "relation": "is",
+            "obj": "gone"
+        },
+        {
+            "source": "[Rachel Green] : The plane is gone, so it looks like I'm stuck here with you guys.",
+            "sbj": "Rachel Green",
+            "relation": "'m",
+            "obj": "stuck"
+        },
+        {
+            "source": "[Rachel Green] : The plane is gone, so it looks like I'm stuck here with you guys.",
+            "sbj": "it",
+            "relation": "looks",
+            "obj": "stuck"
+        },
+        {
+            "source": "[Rachel Green] : The plane is gone, so it looks like I'm stuck here with you guys.",
+            "sbj": "Rachel Green",
+            "relation": "'m stuck",
+            "obj": "you guys"
+        },
+        {
+            "source": "[Rachel Green] : The plane is gone, so it looks like I'm stuck here with you guys.",
+            "sbj": "it",
+            "relation": "looks",
+            "obj": "stuck here"
+        },
+        {
+            "source": "[Rachel Green] : The plane is gone, so it looks like I'm stuck here with you guys.",
+            "sbj": "Rachel Green",
+            "relation": "'m",
+            "obj": "stuck here"
+        },
+        {
+            "source": "[Rachel Green] : The plane is gone, so it looks like I'm stuck here with you guys.",
+            "sbj": "Rachel Green",
+            "relation": "'m stuck here",
+            "obj": "you guys"
+        },
+        {
+            "source": "[Joey Tribbiani] : Hey, we all had better plans.",
+            "sbj": "we",
+            "relation": "had",
+            "obj": "better plans"
+        },
+        {
+            "source": "[Joey Tribbiani] : Hey, we all had better plans.",
+            "sbj": "we",
+            "relation": "had",
+            "obj": "plans"
+        },
+        {
+            "source": "[Joey Tribbiani] : This was nobody's first choice.",
+            "sbj": "nobody",
+            "relation": "has",
+            "obj": "first choice"
+        },
+        {
+            "source": "[Joey Tribbiani] : This was nobody's first choice.",
+            "sbj": "This",
+            "relation": "was",
+            "obj": "nobody 's first choice"
+        },
+        {
+            "source": "[Monica Geller] : So why was I busting my ass to make this delicious Thanksgiving dinner?",
+            "sbj": "Monica Geller",
+            "relation": "was busting",
+            "obj": "my ass"
+        },
+        {
+            "source": "[Monica Geller] : So why was I busting my ass to make this delicious Thanksgiving dinner?",
+            "sbj": "Monica Geller",
+            "relation": "So was busting",
+            "obj": "my ass"
+        },
+        {
+            "source": "[Monica Geller] : So why was I busting my ass to make this delicious Thanksgiving dinner?",
+            "sbj": "Monica Geller",
+            "relation": "make",
+            "obj": "Thanksgiving dinner"
+        },
+        {
+            "source": "[Monica Geller] : So why was I busting my ass to make this delicious Thanksgiving dinner?",
+            "sbj": "Monica Geller",
+            "relation": "make",
+            "obj": "delicious Thanksgiving dinner"
+        },
+        {
+            "source": "[Chandler Bing] : Now this feels like Thanksgiving.",
+            "sbj": "this",
+            "relation": "Now feels like",
+            "obj": "Thanksgiving"
+        },
+        {
+            "source": "[Phoebe Buffay] : Ugly Naked Guy's taking his turkey out of the oven.",
+            "sbj": "Ross Geller",
+            "relation": "taking",
+            "obj": "his turkey"
+        },
+        {
+            "source": "[Phoebe Buffay] : Ugly Naked Guy's taking his turkey out of the oven.",
+            "sbj": "Ugly Naked Guy",
+            "relation": "taking",
+            "obj": "his turkey"
+        },
+        {
+            "source": "[Phoebe Buffay] : Ugly Naked Guy's taking his turkey out of the oven.",
+            "sbj": "Ugly Guy",
+            "relation": "taking",
+            "obj": "his turkey"
+        },
+        {
+            "source": "[Phoebe Buffay] : Ugly Naked Guy's taking his turkey out of the oven.",
+            "sbj": "Naked Guy",
+            "relation": "taking",
+            "obj": "his turkey"
+        },
+        {
+            "source": "[Phoebe Buffay] : Ugly Naked Guy's having Thanksgiving dinner with Ugly Naked Gal.",
+            "sbj": "Thanksgiving dinner",
+            "relation": "is with",
+            "obj": "Ugly Naked Gal"
+        },
+        {
+            "source": "[Joey Tribbiani] : I've gotta see this.",
+            "sbj": "Joey Tribbiani",
+            "relation": "'ve got",
+            "obj": "see"
+        },
+        {
+            "source": "[Joey Tribbiani] : I've gotta see this.",
+            "sbj": "Joey Tribbiani",
+            "relation": "see",
+            "obj": "this"
+        },
+        {
+            "source": "[Phoebe Buffay] : It's nice that he has someone.",
+            "sbj": "It",
+            "relation": "has",
+            "obj": "nice"
+        },
+        {
+            "source": "[Phoebe Buffay] : It's nice that he has someone.",
+            "sbj": "Ross Geller",
+            "relation": "has",
+            "obj": "someone"
+        },
+        {
+            "source": "[Monica Geller] : Does anybody wanna split this with me?",
+            "sbj": "anybody",
+            "relation": "Does wan",
+            "obj": "split"
+        },
+        {
+            "source": "[Monica Geller] : Does anybody wanna split this with me?",
+            "sbj": "anybody",
+            "relation": "split with",
+            "obj": "Monica Geller"
+        },
+        {
+            "source": "[Monica Geller] : Does anybody wanna split this with me?",
+            "sbj": "anybody",
+            "relation": "Does wan",
+            "obj": "split with me"
+        },
+        {
+            "source": "[Phoebe Buffay] : Ooh, you guys have to make a wish.",
+            "sbj": "guys",
+            "relation": "make",
+            "obj": "wish"
+        },
+        {
+            "source": "[Phoebe Buffay] : Ooh, you got the bigger half.",
+            "sbj": "Ross Geller",
+            "relation": "got",
+            "obj": "half"
+        },
+        {
+            "source": "[Phoebe Buffay] : Ooh, you got the bigger half.",
+            "sbj": "Ross Geller",
+            "relation": "got",
+            "obj": "bigger half"
+        },
+        {
+            "source": "[Phoebe Buffay] : Ooh, you got the bigger half.",
+            "sbj": "Ross Geller",
+            "relation": "Ooh got",
+            "obj": "half"
+        },
+        {
+            "source": "[Phoebe Buffay] : Ooh, you got the bigger half.",
+            "sbj": "Ross Geller",
+            "relation": "Ooh got",
+            "obj": "bigger half"
+        },
+        {
+            "source": "[Chandler Bing] : I'd like to propose a toast.",
+            "sbj": "Chandler Bing",
+            "relation": "propose",
+            "obj": "toast"
+        },
+        {
+            "source": "[Chandler Bing] : So I guess what I'm trying to say is that I'm very thankful that all of your Thanksgivings sucked.",
+            "sbj": "Chandler Bing",
+            "relation": "'m",
+            "obj": "thankful"
+        },
+        {
+            "source": "[Chandler Bing] : So I guess what I'm trying to say is that I'm very thankful that all of your Thanksgivings sucked.",
+            "sbj": "Chandler Bing",
+            "relation": "trying",
+            "obj": "say"
+        },
+        {
+            "source": "[Chandler Bing] : So I guess what I'm trying to say is that I'm very thankful that all of your Thanksgivings sucked.",
+            "sbj": "Chandler Bing",
+            "relation": "'m",
+            "obj": "very thankful"
+        },
+        {
+            "source": "[All] : That's so sweet.",
+            "sbj": "That",
+            "relation": "has",
+            "obj": "so sweet"
+        },
+        {
+            "source": "[Chandler Bing] : He's finally happy with that and walks away.",
+            "sbj": "Joey Tribbiani",
+            "relation": "'s finally happy with",
+            "obj": "that"
+        },
+        {
+            "source": "[Chandler Bing] : He's finally happy with that and walks away.",
+            "sbj": "Joey Tribbiani",
+            "relation": "has",
+            "obj": "happy"
+        },
+        {
+            "source": "[Chandler Bing] : He's finally happy with that and walks away.",
+            "sbj": "Joey Tribbiani",
+            "relation": "has",
+            "obj": "finally happy"
+        },
+        {
+            "source": "[Chandler Bing] : He's finally happy with that and walks away.",
+            "sbj": "Joey Tribbiani",
+            "relation": "'s happy with",
+            "obj": "that"
+        }
+    ]
+}
