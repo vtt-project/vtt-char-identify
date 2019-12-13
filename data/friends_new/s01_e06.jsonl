@@ -1,4 +1,4 @@
-{"type": "relation", "class": "social", "subclass": "has", "seconds": 6.546, "source": {"id": "joey"}, "target": {"id": "picture"}}
+{"type": "relation", "class": "social", "subclass": "'s", "seconds": 6.546, "source": {"id": "person_joey_tribbiani"}, "target": {"id": "picture"}}
 {"type": "relation", "class": "social", "subclass": "is", "seconds": 9.09, "source": {"id": "this"}, "target": {"id": "so_exciting"}}
 {"type": "relation", "class": "social", "subclass": "can_spot", "seconds": 10.633, "source": {"id": "person_joey_tribbiani"}, "target": {"id": "someone"}}
 {"type": "relation", "class": "social", "subclass": "scares", "seconds": 16.514, "source": {"id": "exclamation_point"}, "target": {"id": "person_phoebe_buffay"}}
